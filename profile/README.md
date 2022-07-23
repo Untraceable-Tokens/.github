@@ -5,7 +5,7 @@
 # Untraceable Inc Presents: UNNY Token
 
 <a href="https://unny.io/" target="_blank">
-<img width="256" width="100%" alt="UNNY Token Logo" src="https://user-images.githubusercontent.com/1342367/180618675-43218854-1a9f-4aa4-b861-c33b43747cfa.png">
+<img width="420" width="100%" alt="UNNY Token Logo" src="https://user-images.githubusercontent.com/1342367/180618675-43218854-1a9f-4aa4-b861-c33b43747cfa.png">
 </a>
 
 # Available at Futurist Blockchain Conference 2022
